@@ -99,8 +99,9 @@ nav{
     outline : none;
 }
 
-p> span{
+p > span > a{
     color: blue;
+    gap : 20px;
 }
 
 
