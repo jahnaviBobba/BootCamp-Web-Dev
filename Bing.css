@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#microsoft{
+    gap:5px;
+    margin-top: 5vh;
+    display: flex;
+}
+
+#search-bar{
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    /* align-items: center; */
+
+}
+
+#bellset{
+    display: flex;
+    gap: 10px;
+    justify-content: end;
+}
+
+
+    /* #container{
+        display: flex;
+
+    } */
